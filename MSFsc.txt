@@ -1,0 +1,60 @@
+***Participant 1***
+31-10: SDw=7,5  SDW_mean=7,95
+01-11: SDF=9	SDF_mean= 9,41	
+02-11: SDw=8,75 MSF_mean= 5,291 ==> MSFsc1 = 4,836
+03-11: SDw=9,25 SDWeek= 8,5
+04-11: SDW=8,5
+05-11: SDF=8,75
+06-11: SDF=10,5
+07-11: SDW=5,75
+***Participant 2***
+31-10: SDw= 6   SDW_mean=6,35
+01-11: SDw= 6,25	SDF_mean=6,75 ==> MSFsc2=3,355
+02-11: SDw= 6   MSF_mean= 3,5
+04-11: SDw= 7   SDWeek= 6,46
+05-11: SDF= 7
+06-11: SDF= 6,5
+07-11: SDw= 6,5
+***Participant 3***
+31-10: SDw= 7  SDW_mean= 6,56
+01-11: SDF= 11 SDF_mean= 10,5
+02-11: SDw= 10,25 MSF_mean=  7,625 ==> MSFsc3=6,64
+03-11: SDw= 6,25 SDWeek=8,53
+04-11: SDF= 10,5
+05-11: SDF= 10,25
+06-11: SDF= 10,25
+08-11: SDw= 2,75
+***Participant 4***
+31-10: SDw=7,5  SDW_mean=7,7
+01-11: SDF= 4,5 SDF_mean=6,125
+02-11: SDW= 7,5 MSF_mean=6,812 ==> MSFsc4 = 6,812
+03-11: SDW= 7,5 SDWeek=7,25
+04-11: SDW=8
+05-11: SDF=7,75
+07-11: SDW= 8
+***Participant 5***
+31-10: SDF=  7,5  SDF_mean=8,125
+01-11: SDF= 9,25  MSF_mean=4,421 ==> MSFsc5= 4,421
+02-11: SDF= 6,25  SDWeek=8,125
+03-11: SDF= 9
+04-11: SDF= 7
+05-11: SDF= 8
+06-11: SDF= 10
+07-11: SDF= 8
+***Participant 7***
+31-10: SDw= 7,5 SDW_mean= 8,125 ==> MSFsc7= 3,562
+03-11: SDw= 8   SDF_mean= 10,75
+04-11: SDw= 9,75  MSF_mean=4,437
+05-11: SDF= 11,25 SDWeek=9
+06-11: SDF= 10,25
+07-11: SDw= 7,25
+***Participant 8***
+31-10: SDw= 7,75 SDW_mean= 8,6  ==> MSFsc8= 3,803
+01-11: SDF= 9,25 SDF_mean= 9,5
+02-11: SDW= 8,25 MSF_mean=4,083
+03-11: SDW= 9    SDWeek=8,94
+04-11: SDW= 9,25
+05-11: SDF= 10,25
+06-11: SDF= 9
+07-11: SDW= 8,75
+
